@@ -14,3 +14,8 @@ This specialization covers the concepts and tools you'll need throughout the ent
 8. Practical Machine Learning
 9. Developing Data Products
 10. **Capstone**: Data Science Capstone
+
+## Instructors
+1. Brian Caffo - Professor, Biostatistics [Bloomberg School of Public Health]
+2. Jeff Leek - Associate Professor, Biostatistics [Bloomberg School of Public Health]
+3. Roger D. Peng - Associate Professor, Biostatistics [Bloomberg School of Public Health]
