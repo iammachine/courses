@@ -16,6 +16,6 @@ This specialization covers the concepts and tools you'll need throughout the ent
 10. **Capstone**: Data Science Capstone
 
 ## Instructors
-1. Brian Caffo - Professor, Biostatistics [Bloomberg School of Public Health]
-2. Jeff Leek - Associate Professor, Biostatistics [Bloomberg School of Public Health]
-3. Roger D. Peng - Associate Professor, Biostatistics [Bloomberg School of Public Health]
+1. [Brian Caffo](http://www.bcaffo.com/) - Professor, [Biostatistics](http://www.biostat.jhsph.edu/) [Bloomberg School of Public Health]
+2. [Jeff Leek](http://www.biostat.jhsph.edu/~jleek/) - Associate Professor, [Biostatistics](http://www.biostat.jhsph.edu/) [Bloomberg School of Public Health]
+3. [Roger D. Peng](http://www.biostat.jhsph.edu/~rpeng/) - Associate Professor, [Biostatistics](http://www.biostat.jhsph.edu/) [Bloomberg School of Public Health]
