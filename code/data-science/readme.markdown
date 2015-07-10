@@ -12,7 +12,7 @@ This specialization covers the concepts and tools you'll need throughout the ent
 6. Statistical Inference
 7. Regression Models
 8. Practical Machine Learning
-9. Developing Data Products
+9. [Developing Data Products](https://github.com/iammachine/courses/tree/master/code/data-science/developing-data-products)
 10. **Capstone**: Data Science Capstone
 
 ## Instructors
