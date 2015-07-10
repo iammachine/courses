@@ -8,7 +8,7 @@ This specialization covers the concepts and tools you'll need throughout the ent
 2. R Programming
 3. [Getting and Cleaning Data](https://github.com/iammachine/courses/tree/master/code/data-science/getting-and-cleaning-data)
 4. [Exploratory Data Analysis](https://github.com/iammachine/courses/tree/master/code/data-science/exploratory-data-analysis)
-5. Reproducible Research
+5. [Reproducible Research](https://github.com/iammachine/courses/tree/master/code/data-science/reproducible-research)
 6. Statistical Inference
 7. Regression Models
 8. Practical Machine Learning
