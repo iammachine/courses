@@ -6,7 +6,7 @@ This specialization covers the concepts and tools you'll need throughout the ent
 
 1. The Data Scientist’s Toolbox
 2. R Programming
-3. Getting and Cleaning Data
+3. [Getting and Cleaning Data](https://github.com/iammachine/courses/tree/master/code/data-science/getting-and-cleaning-data)
 4. Exploratory Data Analysis
 5. Reproducible Research
 6. Statistical Inference
